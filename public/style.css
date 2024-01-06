@@ -1,4 +1,7 @@
 /*Summarize*/
+*{
+    resize: none;
+}
 #inputtext,#outputtext{
     resize: none;
     border-radius: 5px;

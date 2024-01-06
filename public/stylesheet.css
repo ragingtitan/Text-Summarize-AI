@@ -1,6 +1,7 @@
 *{
   padding: 0;
   margin: 0;
+  resize: none;
 }
 .cta-section {
   background-color: #f2f2f2;
@@ -92,7 +93,7 @@ p {
 
 textarea {
   height: 300px;
-  resize: none;
+  
   padding: 10px;
   margin-bottom: 10px;
 }
